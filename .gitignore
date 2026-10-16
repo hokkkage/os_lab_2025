@@ -1,0 +1,7 @@
+
+/lab2/src/build/
+/lab3/src/*.o
+/lab3/src/sequential_min_max
+/lab3/src/parallel_min_max
+/lab3/src/run_sequential
+/lab3/src/result_*.txt
